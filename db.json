@@ -1,0 +1,83 @@
+{
+  "tweets" : [
+    {
+    "username": "romanmatthews83",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/742417709137317889/RSXKu-d5_normal.jpg",
+    "text": "@emunizok Flash? FLASH? Es un banana!! Se come los mocos con todas las minas."
+    },
+    {
+    "username": "jsbex0104",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/799082027005800449/e0VZNmiv_normal.jpg",
+    "text": "@hana87_banana はなありがとう😭💓うちも大スキ大スキ大スキ遊ぼうね！"
+    },
+    {
+    "username": "HannahEBagley",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/815731321704239104/6VPZsfUQ_normal.jpg",
+    "text": "Hannah Banana ☺️"
+    },
+    {
+    "username": "kelseyxrene",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/789694087419002880/TJhMQEou_normal.jpg",
+    "text": "i'm just kidding stephen hawking and eddie redmayne. they are kings of intelligence! trump is a rotten banana peel"
+    },
+    {
+    "username": "Lubelle_chan",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/816344433188802560/wMQ23VnY_normal.jpg",
+    "text": "RT @FunnyQuotees: this is a rare pink banana rt for good luck in 2017 https://t.co/EEgEFBcNsu"
+    },
+    {
+    "username": "notRkellysSon",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/815194168393891841/pj6zBY8g_normal.jpg",
+    "text": "mama made the banana pudding slightly runny but this shit still hitting"
+    },
+    {
+    "username": "Margot_Banana",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/737639048592777216/hs1YBSGm_normal.jpg",
+    "text": "RT @news_line_me: 【フィンランド旅行があたる！】LINE NEWS公式アカウント(@news_line_me)をフォロー&amp;このツイートをRTするだけで「フィンランド旅行」や「ムーミングッズ」が当たる大チャンス！詳しくはこちら ▶ https://t.co/9m…"
+    },
+    {
+    "username": "kardashiarms",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/816276979876036609/m6ilnMDI_normal.jpg",
+    "text": "RT @GRIERBOLUDO: ME FUNCIONÓ CON LA BANANA NORMAL AHORA HICIERON OTRA BANANA PERO CON BRILLITOS AIRE ESPERO QUE ME FUNCIONE https://t.co/ql…"
+    },
+    {
+    "username": "LuizaLagoMirand",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/786748608049737728/vzLHP9Ev_normal.jpg",
+    "text": "RT @FunnySayings: this is a rare pink banana rt for good luck in 2017 https://t.co/LMuzAzdyxM"
+    },
+    {
+    "username": "nephronredcombo",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/815898534952116224/PHFNULoX_normal.jpg",
+    "text": "@banana_b1a4_ 헐 저 주세욤"
+    }
+  ],
+  "posts": [
+    {
+      "date": "01-05-2017",
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "source" : "Detroit News",
+      "url" : "http://www.detnews.com",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "tags" : ["economic", "michigan", "startup"],
+      "sentiment" : "positive"
+
+    },
+    {
+      "date": "01-05-2017",
+      "id": 2,
+      "title": "at nam consequatur ea labore ea harum",
+      "source" : "MLive",
+      "url" : "http://www.mlive.com",
+      "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut",
+      "tags" : ["economic", "michigan", "startup"],
+      "sentiment" : "negative"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "The Michigan EConomic Development Corporation is working on a proposal"},
+    { "id": 2, "body": "Here are some funny comments"},
+    { "id": 3, "body": "Well, some more comments"}
+  ],
+  "header": { "title": "Detroit Startup",  "purpose" : "Briefing document with Tweets, News Stories, Comments from various sources"}
+}
